@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Love everything related to games, constantly challenge myself, overcome difficulties
 
-Proficient: Unity, C#, JS, HTML
+Direction: Unity, C#, JS, HTML
 
 ## 💬 About me 
 
